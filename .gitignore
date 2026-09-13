@@ -1,0 +1,10 @@
+# Java build output
+*.class
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node.js dependencies and logs
+node_modules/
+npm-debug.log*
